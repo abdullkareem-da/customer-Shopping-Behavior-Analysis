@@ -22,4 +22,4 @@ An end-to-end data analytics project analyzing customer demographics, purchase f
 - `customer_queries.sql` – SQL queries answering key business questions.
 - `customer_behavior_dashboard.pbix` – Interactive Power BI dashboard source file.
 - `customer_behavior_dashboard.pdf` – Static PDF export of the dashboard.
-- `customer_data.csv` – Dataset used for the analysis.
+- `customer_data.csv` – Dataset used for the analysis..
